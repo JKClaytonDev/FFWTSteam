@@ -1,0 +1,10 @@
+newmtl DirtVines
+map_Kd -o 0 0 -s 1 1 DirtVines 1.png
+Kd 1 1 1
+d 1
+
+newmtl AutumnGrass
+map_Kd -o 0 0 -s 1 1 ground_road.tga
+Kd 1 0.6117647 0
+d 1
+

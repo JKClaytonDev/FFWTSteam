@@ -1,0 +1,147 @@
+newmtl Default_Prototype
+Kd 1.0 1.0 1.0
+d 1.0
+
+newmtl GridCeil_-_Copy_(2)
+Kd 1 1 1
+d 1
+
+newmtl BuildingWindows
+map_Kd BuildingWindows.png
+Kd 1 1 1
+d 1
+
+newmtl PuddlesRoad
+map_Kd 7679-metallic.jpg
+Kd 0.1226414 0.1226414 0.1226414
+d 1
+
+newmtl GridFloor
+Kd 1 0.5587922 0
+d 1
+
+newmtl BuildingWindow4
+map_Kd BuildingWindow4.png
+Kd 0.5377357 0.5351993 0.5351993
+d 1
+
+newmtl Door
+Kd 0.490566 0.03008189 0.03008189
+d 1
+
+newmtl RedBricks
+map_Kd RedBricks.png
+Kd 1 1 1
+d 1
+
+newmtl GridCeil
+map_Kd Pyramids.png
+Kd 0.6603774 0.3677396 0
+d 1
+
+newmtl MoreBuildings
+map_Kd BuildingWall.png
+Kd 1 1 1
+d 1
+
+newmtl BuildingBigWindows
+map_Kd BigWindows.png
+Kd 1 1 1
+d 1
+
+newmtl GreyBricks
+map_Kd GreyBricks.png
+Kd 1 1 1
+d 1
+
+newmtl Door_1
+Kd 1 1 1
+d 1
+
+newmtl MetalLight
+Kd 0.7264151 0.664567 0.6613118
+d 1
+
+newmtl CinemaBoard
+map_Kd CinemaBuilding.png
+Kd 1 1 1
+d 1
+
+newmtl BuildingSmallWindows
+map_Kd SmallWindows.png
+Kd 1 1 1
+d 1
+
+newmtl Fence
+Kd 0 0 0
+d 1
+
+newmtl MovieSign
+map_Kd BigSign.png
+Kd 1 1 1
+d 1
+
+newmtl CinemaPoster
+map_Kd Movie Poster.png
+Kd 1 1 1
+d 1
+
+newmtl BlackWhiteWindows
+map_Kd BlackWhiteWindows.png
+Kd 1 1 1
+d 1
+
+newmtl BuildingWindows2
+map_Kd BuildingWindows2.png
+Kd 0.6603774 0.6603774 0.6603774
+d 1
+
+newmtl Windows
+map_Kd Windows.png
+Kd 1 1 1
+d 1
+
+newmtl Fence_1
+map_Kd PrisonFenceFloor.png
+Kd 0.3301886 0 0
+d 1
+
+newmtl CobbleStone
+map_Kd CobbleStone.png
+Kd 1 1 1
+d 1
+
+newmtl RoundBuilding
+map_Kd RoundBuilding.png
+Kd 1 1 1
+d 1
+
+newmtl BlackWhiteWindows_1
+map_Kd BlackWhiteWindows 1.png
+Kd 1 1 1
+d 1
+
+newmtl CrackedWall
+map_Kd Dirt.png
+Kd 1 1 1
+d 1
+
+newmtl grass_2
+Kd 0.4784313 0.9960784 0.2980392
+d 1
+
+newmtl Wood
+map_Kd Wood.png
+Kd 1 1 1
+d 1
+
+newmtl Dice
+map_Kd FloorHeight.png
+Kd 0.3584905 0.3432716 0.3432716
+d 1
+
+newmtl AutumnGrass.001
+map_Kd ground_road.tga
+Kd 1 0.6117647 0
+d 1
+
