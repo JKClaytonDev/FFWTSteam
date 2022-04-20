@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: db284771ac7dd71458d7fd1e19ac2470
+ModelImporter:
+  serializedVersion: 22102
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Armature
+  - first:
+      1: 100004
+    second: Bone
+  - first:
+      1: 100006
+    second: Bone_001
+  - first:
+      1: 100008
+    second: Bone_002
+  - first:
+      1: 100010
+    second: Bone_003
+  - first:
+      1: 100012
+    second: Bone_004
+  - first:
+      1: 100014
+    second: Bone_005
+  - first:
+      1: 100016
+    second: Bone_006
+  - first:
+      1: 100018
+    second: Bone_007
+  - first:
+      1: 100020
+    second: Bone_008
+  - first:
+      1: 100022
+    second: Bone_009
+  - first:
+      1: 100024
+    second: Bone_010
+  - first:
+      1: 100026
+    second: Bone_011
+  - first:
+      1: 100028
+    second: Bone_012
+  - first:
+      1: 100030
+    second: Bone_013
+  - first:
+      1: 100032
+    second: Bone_014
+  - first:
+      1: 100034
+    second: Bone_016
+  - first:
+      1: 100036
+    second: Bone_018
+  - first:
+      1: 100038
+    second: C__lbremasteredrequiem_pc_nzp_models_VModels_karambit2
+  - first:
+      1: 100040
+    second: Hand
+  - first:
+      1: 100042
+    second: LowMid
+  - first:
+      1: 100044
+    second: LowPinkie
+  - first:
+      1: 100046
+    second: LowPointer
+  - first:
+      1: 100048
+    second: LowRing
+  - first:
+      1: 100050
+    second: LowThumb
+  - first:
+      1: 100052
+    second: MidArm
+  - first:
+      1: 100054
+    second: MidMid
+  - first:
+      1: 100056
+    second: MidPinkie
+  - first:
+      1: 100058
+    second: MidPointer
+  - first:
+      1: 100060
+    second: MidRing
+  - first:
+      1: 100062
+    second: MidThumb
+  - first:
+      1: 100064
+    second: TopMidder
+  - first:
+      1: 100066
+    second: TopPinkie
+  - first:
+      1: 100068
+    second: UpperMid
+  - first:
+      1: 100070
+    second: UpperPointer
+  - first:
+      1: 100072
+    second: UpperThumb
+  - first:
+      1: 100074
+    second: Cube
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Armature
+  - first:
+      4: 400004
+    second: Bone
+  - first:
+      4: 400006
+    second: Bone_001
+  - first:
+      4: 400008
+    second: Bone_002
+  - first:
+      4: 400010
+    second: Bone_003
+  - first:
+      4: 400012
+    second: Bone_004
+  - first:
+      4: 400014
+    second: Bone_005
+  - first:
+      4: 400016
+    second: Bone_006
+  - first:
+      4: 400018
+    second: Bone_007
+  - first:
+      4: 400020
+    second: Bone_008
+  - first:
+      4: 400022
+    second: Bone_009
+  - first:
+      4: 400024
+    second: Bone_010
+  - first:
+      4: 400026
+    second: Bone_011
+  - first:
+      4: 400028
+    second: Bone_012
+  - first:
+      4: 400030
+    second: Bone_013
+  - first:
+      4: 400032
+    second: Bone_014
+  - first:
+      4: 400034
+    second: Bone_016
+  - first:
+      4: 400036
+    second: Bone_018
+  - first:
+      4: 400038
+    second: C__lbremasteredrequiem_pc_nzp_models_VModels_karambit2
+  - first:
+      4: 400040
+    second: Hand
+  - first:
+      4: 400042
+    second: LowMid
+  - first:
+      4: 400044
+    second: LowPinkie
+  - first:
+      4: 400046
+    second: LowPointer
+  - first:
+      4: 400048
+    second: LowRing
+  - first:
+      4: 400050
+    second: LowThumb
+  - first:
+      4: 400052
+    second: MidArm
+  - first:
+      4: 400054
+    second: MidMid
+  - first:
+      4: 400056
+    second: MidPinkie
+  - first:
+      4: 400058
+    second: MidPointer
+  - first:
+      4: 400060
+    second: MidRing
+  - first:
+      4: 400062
+    second: MidThumb
+  - first:
+      4: 400064
+    second: TopMidder
+  - first:
+      4: 400066
+    second: TopPinkie
+  - first:
+      4: 400068
+    second: UpperMid
+  - first:
+      4: 400070
+    second: UpperPointer
+  - first:
+      4: 400072
+    second: UpperThumb
+  - first:
+      4: 400074
+    second: Cube
+  - first:
+      21: 2100000
+    second: C__lbremasteredrequiem_pc_nzp_models_VModels_karambit2
+  - first:
+      21: 2100002
+    second: unnamed
+  - first:
+      23: 2300000
+    second: Cube
+  - first:
+      33: 3300000
+    second: Cube
+  - first:
+      43: 4300000
+    second: C__lbremasteredrequiem_pc_nzp_models_VModels_karambit2
+  - first:
+      43: 4300002
+    second: Cube
+  - first:
+      74: 7400000
+    second: Default Take
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: //RootNode
+  - first:
+      137: 13700002
+    second: C__lbremasteredrequiem_pc_nzp_models_VModels_karambit2
+  - first:
+      74: -623603649343465320
+    second: Scene
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 3
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 2
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: arm(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: C__lbremasteredrequiem_pc_nzp_models_VModels_karambit2
+      parentName: arm(Clone)
+      position: {x: -0.08580347, y: -2.5345526, z: 3.089531}
+      rotation: {x: 0.00000008815852, y: 0.94418323, z: 0.25299314, w: -0.21097983}
+      scale: {x: 0.50851303, y: 0.50851303, z: 0.50851303}
+    - name: Armature
+      parentName: arm(Clone)
+      position: {x: -3.1063633, y: 7.070956, z: -1.4616284}
+      rotation: {x: -0.14918523, y: 0.8465315, z: -0.48874527, w: 0.14918517}
+      scale: {x: 1.9665177, y: 1.9665176, z: 1.9665177}
+    - name: MidArm
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.6416155, y: -0.38470465, z: 0.3904276, w: 0.5365614}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000005}
+    - name: Hand
+      parentName: MidArm
+      position: {x: -3.4910946, y: 0.00000026542693, z: -0.0000000896689}
+      rotation: {x: -0.99668413, y: 0.040740672, z: 0.03411338, w: -0.06162228}
+      scale: {x: 1.0000005, y: 0.99999994, z: 1.0000001}
+    - name: LowThumb
+      parentName: Hand
+      position: {x: -3.8211546, y: 0.0000002682209, z: -0.000000026077032}
+      rotation: {x: -0.287724, y: -0.385473, z: 0.49997753, w: 0.72017217}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.99999976}
+    - name: MidThumb
+      parentName: LowThumb
+      position: {x: -0.47326314, y: 0.00000020861626, z: 0.00000037252903}
+      rotation: {x: 0.11977531, y: 0.1751958, z: -0.03806472, w: 0.9764791}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: UpperThumb
+      parentName: MidThumb
+      position: {x: -0.4988593, y: -0.000000059604645, z: -0.00000029802322}
+      rotation: {x: -0.002684593, y: 0.06291195, z: -0.07153944, w: 0.9954481}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000001}
+    - name: LowPointer
+      parentName: Hand
+      position: {x: -3.8211546, y: 0.0000002682209, z: -0.000000026077032}
+      rotation: {x: -0.099408805, y: 0.008680168, z: 0.06898305, w: 0.9926147}
+      scale: {x: 0.99999994, y: 1.0000004, z: 0.99999994}
+    - name: MidPointer
+      parentName: LowPointer
+      position: {x: -1.188946, y: 0.00000014901161, z: -0.00000035762787}
+      rotation: {x: 0.11157614, y: -0.1344685, z: -0.12085701, w: 0.97717077}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000007}
+    - name: UpperPointer
+      parentName: MidPointer
+      position: {x: -0.6017496, y: 0.000000029802322, z: 0.00000006891787}
+      rotation: {x: -0.0037506437, y: 0.107371226, z: 0.022338105, w: 0.9939609}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: LowMid
+      parentName: Hand
+      position: {x: -3.8211546, y: 0.0000002682209, z: -0.000000026077032}
+      rotation: {x: 0.17027485, y: -0.0119594, z: -0.6309259, w: 0.7568329}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.99999964}
+    - name: MidMid
+      parentName: LowMid
+      position: {x: -1.2048376, y: 0.000000059604645, z: 0.00000049360096}
+      rotation: {x: -0.044990428, y: -0.16239646, z: 0.024330229, w: 0.98539907}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000004}
+    - name: UpperMid
+      parentName: MidMid
+      position: {x: -0.6035481, y: 0.00000007543713, z: -0.00000056717545}
+      rotation: {x: 0.014491547, y: 0.10910041, z: -0.010802415, w: 0.9938664}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: LowRing
+      parentName: Hand
+      position: {x: -3.8211546, y: 0.0000002682209, z: -0.000000026077032}
+      rotation: {x: 0.35680634, y: -0.052935585, z: -0.19744007, w: 0.9115396}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: MidRing
+      parentName: LowRing
+      position: {x: -1.3023647, y: -0.000000014901161, z: 0.0000004246831}
+      rotation: {x: -0.12811166, y: 0.13288459, z: 0.017957276, w: 0.98265284}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000002}
+    - name: TopMidder
+      parentName: MidRing
+      position: {x: -0.5660113, y: 0.00000014901161, z: -0.00000008940697}
+      rotation: {x: -0.038880076, y: -0.27790716, z: 0.087993436, w: 0.9557788}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: LowPinkie
+      parentName: Hand
+      position: {x: -3.8211546, y: 0.0000002682209, z: -0.000000026077032}
+      rotation: {x: 0.47368923, y: -0.12112886, z: -0.3203723, w: 0.81136173}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999998}
+    - name: MidPinkie
+      parentName: LowPinkie
+      position: {x: -1.1389962, y: 0, z: 0.0000003874302}
+      rotation: {x: -0.07131681, y: 0.042969845, z: 0.047274973, w: 0.9954058}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+    - name: TopPinkie
+      parentName: MidPinkie
+      position: {x: -0.39969036, y: 0.00000011920929, z: -0.00000014901161}
+      rotation: {x: 0.018586444, y: -0.011996979, z: -0.014620518, w: 0.9996484}
+      scale: {x: 1.0000004, y: 1, z: 1.0000004}
+    - name: Bone_013
+      parentName: MidArm
+      position: {x: -3.4910946, y: 0.00000026542693, z: -0.0000000896689}
+      rotation: {x: -0.8938441, y: 0.057797737, z: 0.051970586, w: 0.44158933}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1041 @@
+ 
+-----------------------------------------------------------------------
+ Keywords: 43
+-----------------------------------------------------------------------
+"_ALBEDOCONTRIBUTION",
+"_ALPHATEST_ON",
+"_BLENDMODE_ALPHA",
+"_BLENDMODE_PRESERVE_SPECULAR_LIGHTING",
+"_COLOR_ON",
+"_DENSITY_MODE",
+"_DEPTHOFFSET_ON",
+"_DISABLE_DBUFFER",
+"_DISPLACEMENT_LOCK_TILING_SCALE",
+"_DOUBLESIDED_ON",
+"_EMISSION",
+"_EMISSIVE_COLOR_MAP",
+"_ENABLE_FOG_ON_TRANSPARENT",
+"_ENABLE_GEOMETRIC_SPECULAR_AA",
+"_HEIGHTMAP",
+"_HEIGHTMAP3",
+"_LAYEREDLIT_4_LAYERS",
+"_MASKMAP",
+"_MATERIAL_FEATURE_CLEAR_COAT",
+"_MATERIAL_FEATURE_SPECULAR_COLOR",
+"_NORMALMAP",
+"_NORMALMAP_TANGENT_SPACE",
+"_NORMALMAP_TANGENT_SPACE0",
+"_NORMALMAP_TANGENT_SPACE1",
+"_NORMALMAP_TANGENT_SPACE2",
+"_NORMALMAP_TANGENT_SPACE3",
+"_PARALLAXMAP",
+"_PIXEL_DISPLACEMENT",
+"_PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE",
+"_SPECULARCOLORMAP",
+"_SUNDISK_SIMPLE",
+"_SURFACE_TYPE_TRANSPARENT",
+"_TERRAIN_INSTANCED_PERPIXEL_NORMAL",
+"_VCOLOR_ON",
+"_VERTEX_DISPLACEMENT",
+"_VERTEX_DISPLACEMENT_LOCK_OBJECT_SCALE",
+"APPLY_AFTER_POST",
+"BLIT_SINGLE_SLICE",
+"DEBUG_DISPLAY",
+"DISABLE_TEXTURE2D_X_ARRAY",
+"OUTLINE_ON",
+"OUTPUT_SPLIT_LIGHTING",
+"SHADOWS_SHADOWMASK",
+ 
+-----------------------------------------------------------------------
+ Keywords -> Materials: 43
+-----------------------------------------------------------------------
+"_ALBEDOCONTRIBUTION",
+    CarLights
+ 
+"_ALPHATEST_ON",
+    costume3
+    costume4 (1)
+    Flashes1
+    Flashes2
+    Flashes3
+    GunFire
+    Rocket
+    Shock
+    SmokeSprite 1
+ 
+"_BLENDMODE_ALPHA",
+    Barrel 1
+    Fence
+    Ghost
+    Glass
+    SemiTransparent
+    SemiTransparent
+    SemiTransparent 1
+ 
+"_BLENDMODE_PRESERVE_SPECULAR_LIGHTING",
+    Ghost
+    Glass
+    SemiTransparent
+    SemiTransparent
+    SemiTransparent 1
+ 
+"_COLOR_ON",
+    Metal
+    Platforms
+    Toon2
+ 
+"_DENSITY_MODE",
+    grass 2
+ 
+"_DEPTHOFFSET_ON",
+    CrackedWall
+    PuddlesRoad
+ 
+"_DISABLE_DBUFFER",
+    grass 2
+ 
+"_DISPLACEMENT_LOCK_TILING_SCALE",
+    BlackShiny
+    CrackedWall
+    Default_Prototype
+    grass 2
+    GridCeil - Copy (2)
+    MoreBuildings
+    New Material
+    PuddlesRoad
+    RedBricks
+    RocketLauncherNormal
+ 
+"_DOUBLESIDED_ON",
+    Floor
+ 
+"_EMISSION",
+    FloorMaterial
+    LiberationSans SDF Material
+    Light
+    Metal
+ 
+"_EMISSIVE_COLOR_MAP",
+    AsteroidMat1
+    RoboGogs
+    RobotVisor
+ 
+"_ENABLE_FOG_ON_TRANSPARENT",
+    Barrel 1
+    Ghost
+    Glass
+    SemiTransparent
+    SemiTransparent
+    SemiTransparent 1
+ 
+"_ENABLE_GEOMETRIC_SPECULAR_AA",
+    grass 2
+ 
+"_HEIGHTMAP",
+    BlackShiny
+    CrackedWall
+    Default_Prototype
+    MoreBuildings
+    New Material
+    OrangeRobot
+    PuddlesRoad
+    RedBricks
+    RocketLauncherNormal
+ 
+"_HEIGHTMAP3",
+    grass 2
+ 
+"_LAYEREDLIT_4_LAYERS",
+    grass 2
+ 
+"_MASKMAP",
+    ACR
+    Barrel
+    BlackShiny
+    BuildingWindows
+    BuildingWindows2
+    PuddlesRoad
+    RocketLauncherNormal
+ 
+"_MATERIAL_FEATURE_CLEAR_COAT",
+    MoreBuildings
+    OrangeRobot
+    RedCar
+ 
+"_MATERIAL_FEATURE_SPECULAR_COLOR",
+    ACR
+    AircraftFuselageGrey
+    AircraftFuselageWhite
+    AircraftWingsJetGrey
+    AircraftWingsJetWhite
+    AircraftWingsPropellersGrey
+    AircraftWingsPropellersWhite
+ 
+"_NORMALMAP",
+    Barrel
+    BlackShiny
+    Default_Prototype
+    Floor
+    GridCeil - Copy (2)
+    GridFloor
+    New Material
+    OrangeRobot
+    Pump
+    RocketLauncherNormal
+ 
+"_NORMALMAP_TANGENT_SPACE",
+    ACR
+    AircraftFuselageGrey
+    AircraftFuselageWhite
+    AircraftWingsJetGrey
+    AircraftWingsJetWhite
+    AircraftWingsPropellersGrey
+    AircraftWingsPropellersWhite
+    Arms
+    AsteroidMat1
+    Barrel
+    Barrel
+    Barrel 1
+    Black
+    BlackGun
+    BlackShiny
+    BlackSkyBox
+    BlackWhiteWindows
+    BlackWhiteWindows 1
+    Bomb
+    Brain
+    brickWall
+    BrightBlue
+    BuildingBigWindows
+    BuildingSmallWindows
+    BuildingWindow4
+    BuildingWindows
+    BuildingWindows2
+    Bullet
+    Bullets
+    CarLights
+    CinemaBoard
+    CinemaPoster
+    Clock
+    CobbleStone
+    CrackedWall
+    DarkFloor
+    Default_Prototype
+    DefaultHDMaterial
+    DefaultHDMirrorMaterial
+    Door
+    Door
+    DoubleBarrel
+    ExplodeFire1
+    ExplodeFire2
+    FireTruck
+    Floor
+    Floor
+    FloorMaterial
+    Ghost
+    Glass
+    GlowGreen
+    Gold
+    grass 2
+    GreyBricks
+    GreyWall
+    GridCeil
+    GridCeil - Copy (2)
+    GridFloor
+    Gun
+    GunFire
+    Leg
+    Light
+    MechVisor
+    Metal
+    MoreBuildings
+    MovieSign
+    New Material
+    OrangeRobot
+    PortalDark
+    PuddlesRoad
+    Pump
+    Red
+    RedBricks
+    RedCar
+    ReflectiveRevolver
+    RevolverGrip
+    RLeg
+    RoboGogs
+    RobotShell
+    RobotVisor
+    RocketLauncherNormal
+    RoundBuilding
+    RustyTop
+    SemiTransparent
+    SemiTransparent
+    SemiTransparent 1
+    ShinyChaingun
+    Shock
+    SideGlow
+    SpaceShip 1
+    Tires
+    Toon2
+    TrashBin
+    Unlit
+    Visor
+    White 1
+    Windows
+    WindShield
+    Wood
+    Wood
+ 
+"_NORMALMAP_TANGENT_SPACE0",
+    grass 2
+    Platforms
+ 
+"_NORMALMAP_TANGENT_SPACE1",
+    grass 2
+    Platforms
+ 
+"_NORMALMAP_TANGENT_SPACE2",
+    grass 2
+    Platforms
+ 
+"_NORMALMAP_TANGENT_SPACE3",
+    grass 2
+    Platforms
+ 
+"_PARALLAXMAP",
+    FloorMaterial
+    Metal
+ 
+"_PIXEL_DISPLACEMENT",
+    BlackShiny
+    CrackedWall
+    Default_Prototype
+    GridCeil - Copy (2)
+    MoreBuildings
+    New Material
+    PuddlesRoad
+    RedBricks
+    RocketLauncherNormal
+ 
+"_PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE",
+    BlackShiny
+    CrackedWall
+    Default_Prototype
+    GridCeil - Copy (2)
+    MoreBuildings
+    New Material
+    PuddlesRoad
+    RedBricks
+    RocketLauncherNormal
+ 
+"_SPECULARCOLORMAP",
+    ACR
+ 
+"_SUNDISK_SIMPLE",
+    Default-Skybox
+ 
+"_SURFACE_TYPE_TRANSPARENT",
+    Barrel 1
+    Fence
+    Ghost
+    Glass
+    SemiTransparent
+    SemiTransparent
+    SemiTransparent 1
+ 
+"_TERRAIN_INSTANCED_PERPIXEL_NORMAL",
+    DefaultHDTerrainMaterial
+ 
+"_VCOLOR_ON",
+    Metal
+    Platforms
+    Toon2
+ 
+"_VERTEX_DISPLACEMENT",
+    grass 2
+ 
+"_VERTEX_DISPLACEMENT_LOCK_OBJECT_SCALE",
+    grass 2
+ 
+"APPLY_AFTER_POST",
+    Hidden/HDRP/FinalPass
+ 
+"BLIT_SINGLE_SLICE",
+    Hidden/HDRP/Blit
+ 
+"DEBUG_DISPLAY",
+    Hidden/HDRP/Deferred_4
+    Hidden/HDRP/Deferred_5
+    Hidden/HDRP/Deferred_6
+    Hidden/HDRP/Deferred_7
+ 
+"DISABLE_TEXTURE2D_X_ARRAY",
+    Hidden/HDRP/Blit
+ 
+"OUTLINE_ON",
+    LiberationSans SDF - Outline
+ 
+"OUTPUT_SPLIT_LIGHTING",
+    Hidden/HDRP/Deferred_1
+    Hidden/HDRP/Deferred_3
+    Hidden/HDRP/Deferred_5
+    Hidden/HDRP/Deferred_7
+ 
+"SHADOWS_SHADOWMASK",
+    Hidden/HDRP/DebugViewMaterialGBuffer
+    Hidden/HDRP/Deferred_2
+    Hidden/HDRP/Deferred_3
+    Hidden/HDRP/Deferred_6
+    Hidden/HDRP/Deferred_7
+ 
+-----------------------------------------------------------------------
+ Materials -> Keywords: 124
+-----------------------------------------------------------------------
+ACR
+    "_MASKMAP",
+    "_MATERIAL_FEATURE_SPECULAR_COLOR",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_SPECULARCOLORMAP",
+ 
+AircraftFuselageGrey
+    "_MATERIAL_FEATURE_SPECULAR_COLOR",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+AircraftFuselageWhite
+    "_MATERIAL_FEATURE_SPECULAR_COLOR",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+AircraftWingsJetGrey
+    "_MATERIAL_FEATURE_SPECULAR_COLOR",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+AircraftWingsJetWhite
+    "_MATERIAL_FEATURE_SPECULAR_COLOR",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+AircraftWingsPropellersGrey
+    "_MATERIAL_FEATURE_SPECULAR_COLOR",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+AircraftWingsPropellersWhite
+    "_MATERIAL_FEATURE_SPECULAR_COLOR",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Arms
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+AsteroidMat1
+    "_EMISSIVE_COLOR_MAP",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Barrel
+    "_MASKMAP",
+    "_NORMALMAP",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Barrel
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Barrel 1
+    "_BLENDMODE_ALPHA",
+    "_ENABLE_FOG_ON_TRANSPARENT",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_SURFACE_TYPE_TRANSPARENT",
+ 
+Black
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+BlackGun
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+BlackShiny
+    "_DISPLACEMENT_LOCK_TILING_SCALE",
+    "_HEIGHTMAP",
+    "_MASKMAP",
+    "_NORMALMAP",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_PIXEL_DISPLACEMENT",
+    "_PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE",
+ 
+BlackSkyBox
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+BlackWhiteWindows
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+BlackWhiteWindows 1
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Bomb
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Brain
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+brickWall
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+BrightBlue
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+BuildingBigWindows
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+BuildingSmallWindows
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+BuildingWindow4
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+BuildingWindows
+    "_MASKMAP",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+BuildingWindows2
+    "_MASKMAP",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Bullet
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Bullets
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+CarLights
+    "_ALBEDOCONTRIBUTION",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+CinemaBoard
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+CinemaPoster
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Clock
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+CobbleStone
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+costume3
+    "_ALPHATEST_ON",
+ 
+costume4 (1)
+    "_ALPHATEST_ON",
+ 
+CrackedWall
+    "_DEPTHOFFSET_ON",
+    "_DISPLACEMENT_LOCK_TILING_SCALE",
+    "_HEIGHTMAP",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_PIXEL_DISPLACEMENT",
+    "_PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE",
+ 
+DarkFloor
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Default_Prototype
+    "_DISPLACEMENT_LOCK_TILING_SCALE",
+    "_HEIGHTMAP",
+    "_NORMALMAP",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_PIXEL_DISPLACEMENT",
+    "_PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE",
+ 
+DefaultHDMaterial
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+DefaultHDMirrorMaterial
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+DefaultHDTerrainMaterial
+    "_TERRAIN_INSTANCED_PERPIXEL_NORMAL",
+ 
+Default-Skybox
+    "_SUNDISK_SIMPLE",
+ 
+Door
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Door
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+DoubleBarrel
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+ExplodeFire1
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+ExplodeFire2
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Fence
+    "_BLENDMODE_ALPHA",
+    "_SURFACE_TYPE_TRANSPARENT",
+ 
+FireTruck
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Flashes1
+    "_ALPHATEST_ON",
+ 
+Flashes2
+    "_ALPHATEST_ON",
+ 
+Flashes3
+    "_ALPHATEST_ON",
+ 
+Floor
+    "_DOUBLESIDED_ON",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Floor
+    "_NORMALMAP",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+FloorMaterial
+    "_EMISSION",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_PARALLAXMAP",
+ 
+Ghost
+    "_BLENDMODE_ALPHA",
+    "_BLENDMODE_PRESERVE_SPECULAR_LIGHTING",
+    "_ENABLE_FOG_ON_TRANSPARENT",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_SURFACE_TYPE_TRANSPARENT",
+ 
+Glass
+    "_BLENDMODE_ALPHA",
+    "_BLENDMODE_PRESERVE_SPECULAR_LIGHTING",
+    "_ENABLE_FOG_ON_TRANSPARENT",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_SURFACE_TYPE_TRANSPARENT",
+ 
+GlowGreen
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Gold
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+grass 2
+    "_DENSITY_MODE",
+    "_DISABLE_DBUFFER",
+    "_DISPLACEMENT_LOCK_TILING_SCALE",
+    "_ENABLE_GEOMETRIC_SPECULAR_AA",
+    "_HEIGHTMAP3",
+    "_LAYEREDLIT_4_LAYERS",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_NORMALMAP_TANGENT_SPACE0",
+    "_NORMALMAP_TANGENT_SPACE1",
+    "_NORMALMAP_TANGENT_SPACE2",
+    "_NORMALMAP_TANGENT_SPACE3",
+    "_VERTEX_DISPLACEMENT",
+    "_VERTEX_DISPLACEMENT_LOCK_OBJECT_SCALE",
+ 
+GreyBricks
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+GreyWall
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+GridCeil
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+GridCeil - Copy (2)
+    "_DISPLACEMENT_LOCK_TILING_SCALE",
+    "_NORMALMAP",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_PIXEL_DISPLACEMENT",
+    "_PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE",
+ 
+GridFloor
+    "_NORMALMAP",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Gun
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+GunFire
+    "_ALPHATEST_ON",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Hidden/HDRP/Blit
+    "BLIT_SINGLE_SLICE",
+ 
+Hidden/HDRP/Blit
+    "DISABLE_TEXTURE2D_X_ARRAY",
+ 
+Hidden/HDRP/DebugViewMaterialGBuffer
+    "SHADOWS_SHADOWMASK",
+ 
+Hidden/HDRP/Deferred_1
+    "OUTPUT_SPLIT_LIGHTING",
+ 
+Hidden/HDRP/Deferred_2
+    "SHADOWS_SHADOWMASK",
+ 
+Hidden/HDRP/Deferred_3
+    "OUTPUT_SPLIT_LIGHTING",
+    "SHADOWS_SHADOWMASK",
+ 
+Hidden/HDRP/Deferred_4
+    "DEBUG_DISPLAY",
+ 
+Hidden/HDRP/Deferred_5
+    "DEBUG_DISPLAY",
+    "OUTPUT_SPLIT_LIGHTING",
+ 
+Hidden/HDRP/Deferred_6
+    "DEBUG_DISPLAY",
+    "SHADOWS_SHADOWMASK",
+ 
+Hidden/HDRP/Deferred_7
+    "DEBUG_DISPLAY",
+    "OUTPUT_SPLIT_LIGHTING",
+    "SHADOWS_SHADOWMASK",
+ 
+Hidden/HDRP/FinalPass
+    "APPLY_AFTER_POST",
+ 
+Leg
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+LiberationSans SDF - Outline
+    "OUTLINE_ON",
+ 
+LiberationSans SDF Material
+    "_EMISSION",
+ 
+Light
+    "_EMISSION",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+MechVisor
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Metal
+    "_COLOR_ON",
+    "_EMISSION",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_PARALLAXMAP",
+    "_VCOLOR_ON",
+ 
+MoreBuildings
+    "_DISPLACEMENT_LOCK_TILING_SCALE",
+    "_HEIGHTMAP",
+    "_MATERIAL_FEATURE_CLEAR_COAT",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_PIXEL_DISPLACEMENT",
+    "_PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE",
+ 
+MovieSign
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+New Material
+    "_DISPLACEMENT_LOCK_TILING_SCALE",
+    "_HEIGHTMAP",
+    "_NORMALMAP",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_PIXEL_DISPLACEMENT",
+    "_PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE",
+ 
+OrangeRobot
+    "_HEIGHTMAP",
+    "_MATERIAL_FEATURE_CLEAR_COAT",
+    "_NORMALMAP",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Platforms
+    "_COLOR_ON",
+    "_NORMALMAP_TANGENT_SPACE0",
+    "_NORMALMAP_TANGENT_SPACE1",
+    "_NORMALMAP_TANGENT_SPACE2",
+    "_NORMALMAP_TANGENT_SPACE3",
+    "_VCOLOR_ON",
+ 
+PortalDark
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+PuddlesRoad
+    "_DEPTHOFFSET_ON",
+    "_DISPLACEMENT_LOCK_TILING_SCALE",
+    "_HEIGHTMAP",
+    "_MASKMAP",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_PIXEL_DISPLACEMENT",
+    "_PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE",
+ 
+Pump
+    "_NORMALMAP",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Red
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+RedBricks
+    "_DISPLACEMENT_LOCK_TILING_SCALE",
+    "_HEIGHTMAP",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_PIXEL_DISPLACEMENT",
+    "_PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE",
+ 
+RedCar
+    "_MATERIAL_FEATURE_CLEAR_COAT",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+ReflectiveRevolver
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+RevolverGrip
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+RLeg
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+RoboGogs
+    "_EMISSIVE_COLOR_MAP",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+RobotShell
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+RobotVisor
+    "_EMISSIVE_COLOR_MAP",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Rocket
+    "_ALPHATEST_ON",
+ 
+RocketLauncherNormal
+    "_DISPLACEMENT_LOCK_TILING_SCALE",
+    "_HEIGHTMAP",
+    "_MASKMAP",
+    "_NORMALMAP",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_PIXEL_DISPLACEMENT",
+    "_PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE",
+ 
+RoundBuilding
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+RustyTop
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+SemiTransparent
+    "_BLENDMODE_ALPHA",
+    "_BLENDMODE_PRESERVE_SPECULAR_LIGHTING",
+    "_ENABLE_FOG_ON_TRANSPARENT",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_SURFACE_TYPE_TRANSPARENT",
+ 
+SemiTransparent
+    "_BLENDMODE_ALPHA",
+    "_BLENDMODE_PRESERVE_SPECULAR_LIGHTING",
+    "_ENABLE_FOG_ON_TRANSPARENT",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_SURFACE_TYPE_TRANSPARENT",
+ 
+SemiTransparent 1
+    "_BLENDMODE_ALPHA",
+    "_BLENDMODE_PRESERVE_SPECULAR_LIGHTING",
+    "_ENABLE_FOG_ON_TRANSPARENT",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_SURFACE_TYPE_TRANSPARENT",
+ 
+ShinyChaingun
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Shock
+    "_ALPHATEST_ON",
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+SideGlow
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+SmokeSprite 1
+    "_ALPHATEST_ON",
+ 
+SpaceShip 1
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Tires
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Toon2
+    "_COLOR_ON",
+    "_NORMALMAP_TANGENT_SPACE",
+    "_VCOLOR_ON",
+ 
+TrashBin
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Unlit
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Visor
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+White 1
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Windows
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+WindShield
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Wood
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+Wood
+    "_NORMALMAP_TANGENT_SPACE",
+ 
+-----------------------------------------------------------------------
+ Shaders -> Materials: 11
+-----------------------------------------------------------------------
+"HDRP/LayeredLit"
+    Platforms
+ 
+"HDRP/Lit"
+    ACR
+    AircraftFuselageGrey
+    AircraftFuselageWhite
+    AircraftWingsJetGrey
+    AircraftWingsJetWhite
+    AircraftWingsPropellersGrey
+    AircraftWingsPropellersWhite
+    Arms
+    AsteroidMat1
+    Barrel
+    Barrel
+    Barrel 1
+    Black
+    BlackGun
+    BlackShiny
+    BlackSkyBox
+    BlackWhiteWindows
+    BlackWhiteWindows 1
+    Bomb
+    Brain
+    brickWall
+    BrightBlue
+    BuildingBigWindows
+    BuildingSmallWindows
+    BuildingWindow4
+    BuildingWindows
+    BuildingWindows2
+    Bullet
+    Bullets
+    CarLights
+    CinemaBoard
+    CinemaPoster
+    Clock
+    CobbleStone
+    CrackedWall
+    DarkFloor
+    Default_Prototype
+    DefaultHDMaterial
+    DefaultHDMirrorMaterial
+    Door
+    Door
+    DoubleBarrel
+    ExplodeFire1
+    ExplodeFire2
+    FireTruck
+    Floor
+    Floor
+    FloorMaterial
+    Ghost
+    Glass
+    GlowGreen
+    Gold
+    grass 2
+    GreyBricks
+    GreyWall
+    GridCeil
+    GridCeil - Copy (2)
+    GridFloor
+    Gun
+    GunFire
+    Leg
+    Light
+    MechVisor
+    Metal
+    MoreBuildings
+    MovieSign
+    New Material
+    OrangeRobot
+    PortalDark
+    PuddlesRoad
+    Pump
+    Red
+    RedBricks
+    RedCar
+    ReflectiveRevolver
+    RevolverGrip
+    RLeg
+    RoboGogs
+    RobotShell
+    RobotVisor
+    RocketLauncherNormal
+    RoundBuilding
+    RustyTop
+    SemiTransparent
+    SemiTransparent
+    SemiTransparent 1
+    ShinyChaingun
+    Shock
+    SideGlow
+    SpaceShip 1
+    Tires
+    Toon2
+    TrashBin
+    Unlit
+    Visor
+    White 1
+    Windows
+    WindShield
+    Wood
+    Wood
+ 
+"HDRP/TerrainLit"
+    DefaultHDTerrainMaterial
+ 
+"HDRP/Unlit"
+    costume3
+    costume4 (1)
+    Fence
+    Flashes1
+    Flashes2
+    Flashes3
+    Rocket
+    SmokeSprite 1
+ 
+"Hidden/HDRP/Blit"
+    Hidden/HDRP/Blit
+    Hidden/HDRP/Blit
+ 
+"Hidden/HDRP/DebugViewMaterialGBuffer"
+    Hidden/HDRP/DebugViewMaterialGBuffer
+ 
+"Hidden/HDRP/Deferred"
+    Hidden/HDRP/Deferred_1
+    Hidden/HDRP/Deferred_2
+    Hidden/HDRP/Deferred_3
+    Hidden/HDRP/Deferred_4
+    Hidden/HDRP/Deferred_5
+    Hidden/HDRP/Deferred_6
+    Hidden/HDRP/Deferred_7
+ 
+"Hidden/HDRP/FinalPass"
+    Hidden/HDRP/FinalPass
+ 
+"Skybox/Procedural"
+    Default-Skybox
+ 
+"UI/Default Font"
+    LiberationSans SDF Material
+ 
+"UI/Unlit/Text Detail"
+    LiberationSans SDF - Outline
+ 
